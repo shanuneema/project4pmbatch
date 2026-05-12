@@ -1,3 +1,9 @@
 .section-heading{
     padding: 40px 0;
 }
+#work{
+    background-color: lightgrey;
+}
+#placement .card{
+    flex-direction: revert-layer;
+}
